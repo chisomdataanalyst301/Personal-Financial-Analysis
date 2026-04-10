@@ -203,3 +203,6 @@ Add predictive analytics (forecasting income/expenses)
 Build automated dashboards
 
 Integrate real-time financial tracking
+
+### Chisom Precious
+Data Analyst | Power BI Developer | Business Analyst | Aspiring Data Scientist.
